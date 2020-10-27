@@ -1,3 +1,10 @@
+#### Name: Brajesh Singh
+ - Place: Jamshedpur,Jharkhand
+ - Bio: Computer Science Student.Graduate Year 2022
+ - GitHub: [thakurbrajeshsingh](https://github.com/thakurbrajeshsingh)
+
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
